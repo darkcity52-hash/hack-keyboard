@@ -1,0 +1,11 @@
+# requirements.txt — Hack Keyboard v2.0
+# Instalar con: pip install -r requirements.txt
+
+# Generación de sonidos futuristas
+numpy>=1.24.0
+
+# Generación de icono de escritorio
+Pillow>=10.0.0
+
+# tkinter viene incluido con Python 3.x estándar
+# En Linux puede requerirse: sudo apt install python3-tk
