@@ -1,0 +1,22 @@
+{
+  "name": "HACK KEYBOARD",
+  "short_name": "HackKeys",
+  "description": "Teclado virtual futurista",
+  "start_url": "/hack-keyboard/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00ff41",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
